@@ -58,3 +58,7 @@ System successfully transforms raw sales data into
 meaningful insights and professional reports,
 making data-driven decision-making easier and
 more effective.
+
+ OUTPUT :
+
+ <img width="1595" height="211" alt="Image" src="https://github.com/user-attachments/assets/52212a30-a138-4c15-9228-012a926a16cb" />
